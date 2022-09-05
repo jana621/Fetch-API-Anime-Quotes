@@ -1,0 +1,40 @@
+i{
+    color: orange;
+}
+.cont{
+    align-items: center;
+    width: 100%;
+    display: flex;
+    background-color: midnightblue;
+    padding: 15px;
+}
+
+.sea{
+    margin-left: 400px;
+}
+
+h3{
+    color: white;
+}
+
+.box{
+    border: none;
+    border-radius: 15px;
+}
+
+.box::placeholder{
+    padding-left: 10px;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+}
+
+.box:focus{
+    outline: none;
+}
+
+.search{
+    border: none;
+    background-color: midnightblue;
+}
+
